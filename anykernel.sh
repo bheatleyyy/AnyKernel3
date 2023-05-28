@@ -14,7 +14,7 @@ device.name1=OP5155L1
 device.name2=RE58B2L1
 device.name3=martini
 device.name4=porsche
-device.name5=
+device.name5=RE54ABL1
 supported.versions=
 supported.patchlevels=
 '; } # end properties
