@@ -12,6 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=OP535DL1
 device.name2=oscar
+device.name1=OP5958L1
+device.name2=larry
 supported.versions=
 supported.patchlevels=
 '; } # end properties
